@@ -9,7 +9,19 @@
     
    .p1 {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 17px;
+    font-size: 18px;
+    }
+
+    .p3{
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bolder;
+        font-size: 20px;
+    }
+
+    .p4{
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bolder;
+        font-size: 25px;
     }
     
     .introtext {
@@ -20,10 +32,10 @@
     }
     
     .p2 {
-      font-family: 'Courier New', Courier, monospace;
+      font-family: 'Times New Roman', Times, serif;
       font-weight: 800;
       font-style: normal;
-      font-size: 18px;
+      font-size: 20px;
     }
     
     .picture {
@@ -124,6 +136,7 @@
     }
     
     .m_part{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     padding-left:15px
     }
     
@@ -247,81 +260,9 @@
     padding-top:10px;
     padding-bottom:10px
     }
-    
-    .m_part-2-right-content{
-    border-top:solid #151514 1px;
-    margin-top:10px;
-    padding-top:10px;
-    padding-bottom:10px;
-    }
-    
-    .m_xingcheng-part-3{
-    display:flex;
-    padding-top:20px
-    }
-    
-    .m_part-3-lift{
-    width:50%;
-    padding-left:70px;
-    line-height:25px;
-    font-size:20px
-    }
-    
-    .m_part-3-left-text-1-time{
-    border-top:solid #151514 1px;
-    padding-top:10px;
-    padding-bottom:10px
-    }
-    
-    .m_part-3-left-text-1-content{
-    border-top:solid #151514 1px;
-    display:flex;
-    margin-top:10px;
-    padding-top:10px;
-    padding-bottom:10px
-    }
-    
-    .m_part-3-left-text-2-time{
-    border-top:solid #151514 1px;
-    padding-top:10px;
-    padding-bottom:10px
-    }
-    
-    .m_part-3-left-text-2-content{
-    border-top:solid #151514 1px;
-    display:flex;
-    margin-top:10px;
-    padding-top:10px;
-    padding-bottom:10px
-    }
-    
-    .m_part-3-right{
-    width:45%
-    }
-    
-    .m_part-3-right>img{
-    padding:0px 50px;
-    width:100%;
-    height:300px;
-    margin:auto
-    }
-    
-    .m_end{
-    padding-top:30px
-    }
-    
-    .m_end>img{
-    width:100%;
-    height:50%
-    }
-    
+
     .m_title{
-    font-weight:bold;
-    font-size:30px
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        font-size: larger;
     }
-    
-    </style>
-    </head>
-    <body>
-    <u>
-    </u>
