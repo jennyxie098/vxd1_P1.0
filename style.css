@@ -1,23 +1,26 @@
+    body {
+        background-color: #F9FBFE;
+    }
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     }
     
-    p {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    font-size: 14px;
+   .p1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
     }
     
-    span {
+    .introtext {
     font-family: "karol-sans", sans-serif;
     font-weight: 500;
     font-style: italic;
-    font-size: 14px;
+    font-size: 17px;
     }
     
-    p2 {
-      font-family: "capitolina", serif;
+    .p2 {
+      font-family: 'Courier New', Courier, monospace;
       font-weight: 800;
       font-style: normal;
       font-size: 18px;
@@ -45,7 +48,7 @@
     }
     
     img {
-    height: 120px;
+    height: 500px;
     width: 100%;
     object-fit: cover;
     flex: 1;
@@ -172,6 +175,11 @@
     padding-bottom:20px
     }
     
+    .jianyi-top {
+        display: flex;
+        justify-content: center;
+    }
+
     .m_title-left{
     width:40%;
     padding-left:70px;
